@@ -153,7 +153,7 @@ For a real example of this format, see Table 1 in Landwehr et al., "Design Knowl
 </p>
 
 - Know your first two minutes and your last minute by heart. Everything in between can be free speech.
-- NEVER read verbatim from your notes. NEVER let AI tools generate every sentence and just read it out loud. Everyone will notice.
+- **NEVER read verbatim from your notes. NEVER let AI tools generate every sentence and just read it out loud.** Everyone (especially: me) will notice.
 - Talk to the audience (!), not to the screen or the laptop.
 - Do not read from the slides.
 - Speak slowly, and pause after important statements. A pause feels much longer to you than to the audience.
