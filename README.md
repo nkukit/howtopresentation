@@ -2,6 +2,10 @@
 
 Welcome, welcome, welcome! You are about to present your Bachelor's thesis, Master's thesis, or PhD work (proposal, interim, final, or conference talk). This guide is the sibling of [howtopaper](https://github.com/nkukit/howtopaper) and follows the same idea: a short list of rules that save us both time. Most rules from howtopaper (one term per concept, be specific, self-contained captions, vector graphics) apply to slides as well, so read that one first.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/E5q3RomiQ6jTivjNhz/giphy.gif" alt="Yapping">
+</p>
+
 A talk is *not* a paper read aloud. The audience cannot scroll back, re-read a sentence, or skip ahead. Everything below follows from that.
 
 ## 1. Before you open PowerPoint
