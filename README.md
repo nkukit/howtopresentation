@@ -145,11 +145,8 @@ For a real example of this format, see Table 1 in Landwehr et al., "Design Knowl
 - **Rehearse out loud, with a timer, several times.** At least once in front of somebody who is not afraid to criticize you. Reading the slides silently is not rehearsing.
 
 <p align="center">
-    <img src="
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8xb2x1ZDB1dzR1M2hhdTZuZDZndzd1a2dmejEyc3l0dTcxeG9yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJaNh4ablBYvHYrcR7/giphy.gif" alt="Hi Thanos">
-  </a><br/>
+  <img src="https://media.giphy.com/media/TJaNh4ablBYvHYrcR7/giphy.gif" alt="Rehearse">
 </p>
-
 
 - Know your first two minutes and your last minute by heart. Everything in between can be free speech.
 - NEVER read verbatim from your notes. NEVER let AI tools generate every sentence and just read it out loud. Everyone will notice.
