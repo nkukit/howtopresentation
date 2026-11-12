@@ -133,6 +133,7 @@ Rules:
 - Be fair. Do not define the columns so narrowly that the gap is artificial, and expect the question "what about paper X?".
 
 Example:
+
 <p align="center">
     <img src="https://github.com/nkukit/howtopresentation/blob/master/image.png" alt="Intro">
   </a><br/>
@@ -143,8 +144,15 @@ For a real example of this format, see Table 1 in Landwehr et al., "Design Knowl
 ## 5. Delivery
 
 - **Rehearse out loud, with a timer, several times.** At least once in front of somebody who is not afraid to criticize you. Reading the slides silently is not rehearsing.
+
+<p align="center">
+    <img src="https://media.giphy.com/media/ie76dJeem4xBDcf83e/giphy.gif" alt="Hi Thanos">
+  </a><br/>
+</p>
+
 - Know your first two minutes and your last minute by heart. Everything in between can be free speech.
-- Talk to the audience, not to the screen or the laptop.
+- NEVER read verbatim from your notes. NEVER let AI tools generate every sentence and just read it out loud. Everyone will notice.
+- Talk to the audience (!), not to the screen or the laptop.
 - Do not read from the slides.
 - Speak slowly, and pause after important statements. A pause feels much longer to you than to the audience.
 - If you run out of time, skip slides and go to the conclusion. Do not speed up.
