@@ -142,7 +142,7 @@ Example:
   <img src="image.png" alt="Related work table example">
 </p>
 
-For a real example of this format, see Table 1 in Landwehr et al., "Design Knowledge for Image-based Decision Support Systems", Business & Information Systems Engineering.
+For a real example of this format, see Table 1 in Landwehr et al., ["Design Knowledge for Image-based Decision Support Systems", Business & Information Systems Engineering](https://link.springer.com/article/10.1007/s12599-022-00745-z).
 
 ## 5. Delivery
 
